@@ -5,7 +5,7 @@ import openai
 import subprocess
 from pydub import AudioSegment
 
-openai.api_key = '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'
+openai.api_key = 'key'
 # soundfont_file = "sountrack.sf2"
 rock_music_prompt = """
 Generate a piece of rock music that embodies the characteristics of rock music. 
